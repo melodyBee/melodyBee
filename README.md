@@ -10,11 +10,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@abeeraf85537284" target="blank"><img align="" align=""src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abeeraf85537284" height="30" width="40" /></a>
+<a href="https://twitter.com/@abeeraf85537284" target="blank"><img align="left" align=""src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abeeraf85537284" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/abeera-fatima" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abeera-fatima" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abeera-fatima" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abeera-fatima" height="30" width="40" /></a>
 
-<a href="https://instagram.com/melody_bee__" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melody_bee__" height="30" width="40" /></a>
+<a href="https://instagram.com/melody_bee__" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melody_bee__" height="30" width="40" /></a>
 
 </p>
 
