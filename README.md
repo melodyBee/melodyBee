@@ -1,4 +1,4 @@
-<img  width="50%" src="https://cdn3.helpmonks.com/content/images/2021/08/helpmonks-burnout-1.png">
+
 <h1 align="center">Hi 👋, I'm Abeera Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
