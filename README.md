@@ -93,26 +93,28 @@ Development** - 📫 How to reach me **Abeerafatimarub@gmail.com**
 	><span></span>
 </div>
 <!-- end -->
-<p>
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=melodybee&show_icons=true&locale=en&layout=compact"
-		alt="melodybee"
-	/>
-</p>
+<div>
+	<span>
+		<img
+			align="center"
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=melodybee&show_icons=true&locale=en&layout=compact"
+			alt="melodybee"
+		/>
+	</span>
 
-<p>
-	&nbsp;<img
-		align="left"
-		src="https://github-readme-stats.vercel.app/api?username=melodybee&show_icons=true&locale=en"
-		alt="melodybee"
-	/>
-</p>
+	<span>
+		&nbsp;<img
+			align="left"
+			src="https://github-readme-stats.vercel.app/api?username=melodybee&show_icons=true&locale=en"
+			alt="melodybee"
+		/>
+	</span>
 
-<p>
-	<img
-		align="left"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=melodybee&"
-		alt="melodybee"
-	/>
-</p>
+	<span>
+		<img
+			align="left"
+			src="https://github-readme-streak-stats.herokuapp.com/?user=melodybee&"
+			alt="melodybee"
+		/>
+	</span>
+</div>
