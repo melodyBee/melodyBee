@@ -103,8 +103,7 @@ Development** - 📫 How to reach me **Abeerafatimarub@gmail.com**
 	</span>
  <span>
 	 <a href="https://git.io/streak-stats">
-		 <img src="https://github-readme-streak-stats.herokuapp.com?user=abeerafatimarub%40gmail.com&hide_border=true&border_radius=4.9&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-	 </a>
+	<img src="https://github-readme-streakstats.herokuapp.comuser=abeerafatimarub%40gmail.com&hide_border=true&border_radius=4.9&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
  </span>
 
 </div>
