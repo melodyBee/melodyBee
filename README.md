@@ -97,16 +97,10 @@ Development** - 📫 How to reach me **Abeerafatimarub@gmail.com**
 
 <p>
 	&nbsp;<img
-		align="left"
+		align="right"
 		src="https://github-readme-stats.vercel.app/api?username=melodybee&show_icons=true&locale=en"
 		alt="melodybee"
 	/>
 </p>
 
-<p>
-	<img
-		align="left"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=melodybee&"
-		alt="melodybee"
-	/>
-</p>
+
