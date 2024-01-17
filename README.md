@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abeera Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
--🌱 I'm currently learning **CIT with Python Programming**
+- 🌱 I'm currently learning **CIT with Python Programming**
 
 - 🌱 I have completed a short-course on **MernStack**
 
