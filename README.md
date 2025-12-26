@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abeera Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I'm currently learning **CIT with Python Programming** - 🌱 I have
-completed a short-course on **MernStack** - 💬 Ask me about **FrontEnd Web
+🌱 I have completed a short-course on **Python and MernStack** - 💬 Ask me about **FrontEnd Web
 Development** - 📫 How to reach me **Abeerafatimarub@gmail.com**
 <!-- start -->
 <h3 align="left">Connect with me:</h3>
@@ -90,15 +89,13 @@ Development** - 📫 How to reach me **Abeerafatimarub@gmail.com**
 				height="40"
 			/>
 		</a> </span
-	><span></span>
+	>
 </div>
 <!-- end -->
-<div>
-	<span>
-		<img
-			align="center"
+<!-- <div>
+	<span>	
 			src="https://github-readme-stats.vercel.app/api/top-langs?username=melodybee&show_icons=true&locale=en&layout=compact"
 			alt="melodybee"
 		/>
 	</span>
-</div>
+</div> -->
