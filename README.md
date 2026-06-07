@@ -12,7 +12,5 @@
 ![](https://streak-stats.demolab.com/?user=melodyBee&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=melodyBee&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=melodyBee&icon=5&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
