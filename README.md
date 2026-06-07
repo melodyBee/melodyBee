@@ -1,101 +1,18 @@
-<h1 align="center">Hi 👋, I'm Abeera Fatima</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# 💫 About Me:
+🔭 I'm currently working on my portfolio projects — Zephyr & RusticReads<br>👯 I'm open to collaborate on frontend projects & open source<br>🤝 Any help would be welcome for my first remote internship 😅<br>🌱 I'm currently learning advanced React & sharpening my SEO content writing skills<br>💬 Ask me about front-end dev or content writing
 
-🌱 I have completed a short-course on **Python and MernStack** - 💬 Ask me about **FrontEnd Web
-Development** - 📫 How to reach me **Abeerafatimarub@gmail.com**
-<!-- start -->
-<h3 align="left">Connect with me:</h3>
-<div align="center">
-	<span align="left">
-		<a href="https://twitter.com/@abeeraf85537284" target="blank"
-			><img
-				align="center"
-				src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-				alt="@abeeraf85537284"
-				height="30"
-				width="40"
-		/></a>
-	</span>
-	<span align="center">
-		<a href="https://linkedin.com/in/abeera-fatima" target="blank"
-			><img
-				align="center"
-				src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-				alt="abeera-fatima"
-				height="30"
-				width="40"
-		/></a>
-	</span>
-	<span align="">
-		<a href="https://instagram.com/melody_bee__" target="blank"
-			><img
-				align="center"
-				src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-				alt="melody_bee__"
-				height="30"
-				width="40"
-		/></a>
-	</span>
-</div>
-<!-- end -->
-<!-- start -->
-<h3 align="left">Languages and Tools:</h3>
-<div align="center">
-	<span>
-		<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-				alt="bootstrap"
-				width="40"
-				height="40"
-			/>
-		</a>
-		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-				alt="css3"
-				width="40"
-				height="40"
-			/>
-		</a> </span
-	><span>
-		<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-			<img
-				src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-				alt="git"
-				width="40"
-				height="40"
-			/>
-		</a> </span
-	><span>
-		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-				alt="html5"
-				width="40"
-				height="40"
-			/>
-		</a> </span
-	><span>
-		<a
-			href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-			target="_blank"
-			rel="noreferrer"
-		>
-			<img
-				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-				alt="javascript"
-				width="40"
-				height="40"
-			/>
-		</a> </span
-	>
-</div>
-<!-- end -->
-<!-- <div>
-	<span>	
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=melodybee&show_icons=true&locale=en&layout=compact"
-			alt="melodybee"
-		/>
-	</span>
-</div> -->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abeerafatima_shaikhh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abeera-fatima/?skipRedirect=true) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@melodyBeee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abeerafatimarub@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=melodyBee&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=melodyBee&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=melodyBee&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=melodyBee&icon=5&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
