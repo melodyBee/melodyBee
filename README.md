@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my portfolio projects — Zephyr & RusticReads<br>👯 I'm open to collaborate on frontend projects & open source<br>🤝 Any help would be welcome for my first remote internship 😅<br>🌱 I'm currently learning advanced React & sharpening my SEO content writing skills<br>💬 Ask me about front-end dev or content writing
+🔭 I'm currently working on my portfolio projects — Zephyr & RusticReads<br>🌱 Currently learning advanced React & sharpening my SEO content writing skills<br>💬 Ask me about front-end dev or content writing
 
 
 ## 🌐 Socials:
