@@ -10,9 +10,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=melodyBee&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=melodyBee&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=melodyBee&theme=rose&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=melodyBee&theme=rose&hide_border=false&include_all_commits=false&count_private=false" alt="melodyBee's GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=melodyBee&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=melodyBee&theme=rose&hide_border=false" alt="GitHub streak" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
